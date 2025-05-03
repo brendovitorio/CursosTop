@@ -1,6 +1,6 @@
 # 📚 Plataforma de Cursos Gratuitos - CursosTop
 
-![Preview da Plataforma](public/preview.png)
+[Preview da Plataforma](https://cursostop.vercel.app)
 
 Uma plataforma moderna que reúne os melhores cursos gratuitos do YouTube, organizados por categorias para facilitar seu aprendizado.
 
@@ -73,7 +73,7 @@ A plataforma pode ser facilmente implantada em:
 - [Netlify](https://www.netlify.com)
 - [Railway](https://railway.app)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fseu-usuario%2Fplat-cursos)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbrendovitorio%2Fcursostop)
 
 ## 🤝 Como Contribuir
 
@@ -91,7 +91,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 Brendo Vitorio  - brendovitorioalves@gmail.com
 
-Link do Projeto: [CursosTop](https://github.com/brendovitorio/CursosTop)
+Link do Projeto: [CursosTop](https://github.com/brendovitorio/cursosTop)
 
 ---
 
